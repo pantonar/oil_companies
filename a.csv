@@ -1,0 +1,498 @@
+company,country_iso,year,productionGroup,oil_&_gas_production_boe/day,oil_production_boe/day,gas_production_boe/day,oil_&_gas_reserves_boe
+ADNOC,ARE,2011-01-01,Large domestic producers,3.575783e+06,2.501893e+06,1.07389e+06,
+ADNOC,ARE,2012-01-01,Large domestic producers,3.894568e+06,2.597808e+06,1.29676e+06,
+ADNOC,ARE,2013-01-01,Large domestic producers,4.01498e+06,2.73131e+06,1.28367e+06,
+ADNOC,ARE,2014-01-01,Large domestic producers,4.049426e+06,2.745696e+06,1.30373e+06,
+ADNOC,ARE,2015-01-01,Large domestic producers,4.200902e+06,2.927602e+06,1.2733e+06,
+ADNOC,ARE,2016-01-01,Large domestic producers,4.28601e+06,3.019e+06,1.26701e+06,
+ADNOC,ARE,2017-01-01,Large domestic producers,4.666e+06,3e+06,1.666e+06,
+BAPCO,BHR,2011-01-01,Medium domestic producers,149863.0137,,,
+BAPCO,BHR,2012-01-01,Medium domestic producers,132054.7945,,,
+BAPCO,BHR,2013-01-01,Medium domestic producers,142739.726,,,
+BAPCO,BHR,2014-01-01,Medium domestic producers,154246.5753,,,
+BAPCO,BHR,2015-01-01,Medium domestic producers,149589.0411,,,
+BAPCO,BHR,2016-01-01,Medium domestic producers,153972.6027,,,
+BAPCO,BHR,2017-01-01,Medium domestic producers,,,,
+Basra Oil Company,IRQ,2011-01-01,Large domestic producers,1.887210764e+06,1.824337764e+06,62873,
+Basra Oil Company,IRQ,2012-01-01,Large domestic producers,2.08302003e+06,2.02716103e+06,55859,
+Basra Oil Company,IRQ,2013-01-01,Large domestic producers,2.159611227e+06,2.102439227e+06,57172,
+Basra Oil Company,IRQ,2014-01-01,Large domestic producers,2.524191822e+06,2.457679822e+06,66512,
+Basra Oil Company,IRQ,2015-01-01,Large domestic producers,2.910902668e+06,2.826932668e+06,83970,
+Basra Oil Company,IRQ,2016-01-01,Large domestic producers,,,,
+Basra Oil Company,IRQ,2017-01-01,Large domestic producers,,,,
+CNOOC,CHN,2011-01-01,Internationalized operators,,,,
+CNOOC,CHN,2012-01-01,Internationalized operators,,,,
+CNOOC,CHN,2013-01-01,Internationalized operators,,,,
+CNOOC,CHN,2014-01-01,Internationalized operators,,,,
+CNOOC,CHN,2015-01-01,Internationalized operators,,,,
+CNOOC,CHN,2016-01-01,Internationalized operators,,,,
+CNOOC,CHN,2017-01-01,Internationalized operators,,,,
+CNOOC Limited,CHN,2011-01-01,Internationalized operators,909000,708286,200714,3.19e+09
+CNOOC Limited,CHN,2012-01-01,Internationalized operators,935615,742765,192850,3.4919e+09
+CNOOC Limited,CHN,2013-01-01,Internationalized operators,1.127967e+06,912603,215364,4.4276e+09
+CNOOC Limited,CHN,2014-01-01,Internationalized operators,1.184977e+06,955647,229330,4.478e+09
+CNOOC Limited,CHN,2015-01-01,Internationalized operators,1.358022e+06,1.124047e+06,233975,4.3155e+09
+CNOOC Limited,CHN,2016-01-01,Internationalized operators,1.302922e+06,1.083101e+06,219821,3.8776e+09
+CNOOC Limited,CHN,2017-01-01,Internationalized operators,1.288128e+06,1.064986e+06,223142,4.8408e+09
+CNPC,CHN,2011-01-01,Internationalized operators,4.419098274e+06,2.997668767e+06,1.421429507e+06,
+CNPC,CHN,2012-01-01,Internationalized operators,4.557420712e+06,3.050083288e+06,1.507337425e+06,
+CNPC,CHN,2013-01-01,Internationalized operators,4.883814164e+06,3.209335068e+06,1.674479096e+06,
+CNPC,CHN,2014-01-01,Internationalized operators,5.133034137e+06,3.296893425e+06,1.836140712e+06,
+CNPC,CHN,2015-01-01,Internationalized operators,5.22555537e+06,3.345090685e+06,1.880464685e+06,
+CNPC,CHN,2016-01-01,Internationalized operators,5.2280857530000005e+06,3.272995616000001e+06,1.955090137e+06,
+CNPC,CHN,2017-01-01,Internationalized operators,5.515728192000002e+06,3.44088274e+06,2.074845452e+06,
+CUPET,CUB,2011-01-01,Small domestic producers,,,,
+CUPET,CUB,2012-01-01,Small domestic producers,,,,
+CUPET,CUB,2013-01-01,Small domestic producers,,,,
+CUPET,CUB,2014-01-01,Small domestic producers,,,,
+CUPET,CUB,2015-01-01,Small domestic producers,,,,
+CUPET,CUB,2016-01-01,Small domestic producers,,,,
+CUPET,CUB,2017-01-01,Small domestic producers,,,,
+Ecopetrol,COL,2011-01-01,Large domestic producers,724000,569000,155000,1.857e+09
+Ecopetrol,COL,2012-01-01,Large domestic producers,754000,591000,163000,1.877e+09
+Ecopetrol,COL,2013-01-01,Large domestic producers,788000,612000,176000,1.972e+09
+Ecopetrol,COL,2014-01-01,Large domestic producers,755400,579700,175700,2.084e+09
+Ecopetrol,COL,2015-01-01,Large domestic producers,760700,586000,174700,1.849e+09
+Ecopetrol,COL,2016-01-01,Large domestic producers,718000,552000,166000,1.598e+09
+Ecopetrol,COL,2017-01-01,Large domestic producers,715000,545000,170000,1.659e+09
+EGPC,EGY,2011-01-01,Small domestic producers,,,,
+EGPC,EGY,2012-01-01,Small domestic producers,,,,
+EGPC,EGY,2013-01-01,Small domestic producers,,,,
+EGPC,EGY,2014-01-01,Small domestic producers,,,,
+EGPC,EGY,2015-01-01,Small domestic producers,,,,
+EGPC,EGY,2016-01-01,Small domestic producers,,,,
+EGPC,EGY,2017-01-01,Small domestic producers,,,,
+ENH,MOZ,2011-01-01,Small domestic producers,,,,
+ENH,MOZ,2012-01-01,Small domestic producers,,,,
+ENH,MOZ,2013-01-01,Small domestic producers,,,,
+ENH,MOZ,2014-01-01,Small domestic producers,,,,
+ENH,MOZ,2015-01-01,Small domestic producers,,,,
+ENH,MOZ,2016-01-01,Small domestic producers,,,,
+ENH,MOZ,2017-01-01,Small domestic producers,,,,
+ENOC,ARE,2011-01-01,Internationalized operators,61500,,,
+ENOC,ARE,2012-01-01,Internationalized operators,67600,,,
+ENOC,ARE,2013-01-01,Internationalized operators,73750,,,
+ENOC,ARE,2014-01-01,Internationalized operators,78790,,,3.3211096e+08
+ENOC,ARE,2015-01-01,Internationalized operators,92650,,,6.6e+08
+ENOC,ARE,2016-01-01,Internationalized operators,90301,,,6.17e+08
+ENOC,ARE,2017-01-01,Internationalized operators,83952,,,5.86e+08
+Equinor,NOR,2011-01-01,Internationalized operators,1.607616438e+06,939726.0274,667890.411,5.426e+09
+Equinor,NOR,2012-01-01,Internationalized operators,1.781260274e+06,967123.2877,814136.9863,5.422e+09
+Equinor,NOR,2013-01-01,Internationalized operators,1.67690411e+06,816438.3562,860465.7534,5.6e+09
+Equinor,NOR,2014-01-01,Internationalized operators,1.706986301e+06,838356.1644,868630.137,5.359e+09
+Equinor,NOR,2015-01-01,Internationalized operators,1.780821918e+06,887671.2329,893150.6849,5.06e+09
+Equinor,NOR,2016-01-01,Internationalized operators,1.809232877e+06,876712.3288,932520.5479,5.013e+09
+Equinor,NOR,2017-01-01,Internationalized operators,1.888794521e+06,849315.0685,1.039479452e+06,5.367e+09
+ETAP,TUN,2011-01-01,Small domestic producers,80549.67122999999,48819.80822,31729.86301,
+ETAP,TUN,2012-01-01,Small domestic producers,86353.42466,50004.65753,36348.76712,
+ETAP,TUN,2013-01-01,Small domestic producers,82778.79452000001,45084.52055,37694.27397,
+ETAP,TUN,2014-01-01,Small domestic producers,75488.9589,39722.57534,35766.38356,
+ETAP,TUN,2015-01-01,Small domestic producers,69946.27397000001,35645.89041,34300.38356,
+ETAP,TUN,2016-01-01,Small domestic producers,65226.9589,34842.602739999995,30384.356160000007,
+ETAP,TUN,2017-01-01,Small domestic producers,57595.72603,29400.32877,28195.39726,
+Gabon Oil Company,GAB,2011-01-01,Small domestic producers,,,,
+Gabon Oil Company,GAB,2012-01-01,Small domestic producers,,,,
+Gabon Oil Company,GAB,2013-01-01,Small domestic producers,,,,
+Gabon Oil Company,GAB,2014-01-01,Small domestic producers,,,,
+Gabon Oil Company,GAB,2015-01-01,Small domestic producers,,,,
+Gabon Oil Company,GAB,2016-01-01,Small domestic producers,,,,
+Gabon Oil Company,GAB,2017-01-01,Small domestic producers,,,,
+Gazprom,RUS,2011-01-01,Internationalized operators,9.199753425e+06,648246.5753,8.551506849e+06,1.23e+11
+Gazprom,RUS,2012-01-01,Internationalized operators,9.011342466e+06,848684.9315,8.162657534e+06,1.24e+11
+Gazprom,RUS,2013-01-01,Internationalized operators,9.06139726e+06,851698.6301,8.20969863e+06,1.23e+11
+Gazprom,RUS,2014-01-01,Internationalized operators,8.378246575e+06,1.074273242e+06,7.303973333e+06,1.23e+11
+Gazprom,RUS,2015-01-01,Internationalized operators,7.997972602999999e+06,884410.9589,7.113561643999998e+06,1.22e+11
+Gazprom,RUS,2016-01-01,Internationalized operators,8.772328767e+06,946876.7123,7.825452055e+06,
+Gazprom,RUS,2017-01-01,Internationalized operators,9.727260274e+06,976602.7397,8.750657534e+06,
+GEPetrol,GNQ,2011-01-01,Small domestic producers,,,,
+GEPetrol,GNQ,2012-01-01,Small domestic producers,,,,
+GEPetrol,GNQ,2013-01-01,Small domestic producers,,,,
+GEPetrol,GNQ,2014-01-01,Small domestic producers,,,,
+GEPetrol,GNQ,2015-01-01,Small domestic producers,,,,
+GEPetrol,GNQ,2016-01-01,Small domestic producers,,,,
+GEPetrol,GNQ,2017-01-01,Small domestic producers,,,,
+GNPC,GHA,2011-01-01,Small domestic producers,,,,
+GNPC,GHA,2012-01-01,Small domestic producers,,,,
+GNPC,GHA,2013-01-01,Small domestic producers,,,,
+GNPC,GHA,2014-01-01,Small domestic producers,,21044.16438,,
+GNPC,GHA,2015-01-01,Small domestic producers,,15698.87671,,
+GNPC,GHA,2016-01-01,Small domestic producers,,,,
+GNPC,GHA,2017-01-01,Small domestic producers,,,,
+IPIC,ARE,2011-01-01,Internationalized operators,,,,
+IPIC,ARE,2012-01-01,Internationalized operators,,,,
+IPIC,ARE,2013-01-01,Internationalized operators,,,,
+IPIC,ARE,2014-01-01,Internationalized operators,,,,
+IPIC,ARE,2015-01-01,Internationalized operators,,,,
+IPIC,ARE,2016-01-01,Internationalized operators,,,,
+IPIC,ARE,2017-01-01,Internationalized operators,,,,
+KazMunayGas,KAZ,2011-01-01,Large domestic producers,505687,423835,81852,8.248206e+09
+KazMunayGas,KAZ,2012-01-01,Large domestic producers,522852,429558,93294,8.997047e+09
+KazMunayGas,KAZ,2013-01-01,Large domestic producers,571314,454460,116854,8.875909e+09
+KazMunayGas,KAZ,2014-01-01,Large domestic producers,570207,451648,118559,9.001755e+09
+KazMunayGas,KAZ,2015-01-01,Large domestic producers,577704,455263,122441,8.7331106e+09
+KazMunayGas,KAZ,2016-01-01,Large domestic producers,581247.3699,454620.6575,126626.7123,8.6373083e+09
+KazMunayGas,KAZ,2017-01-01,Large domestic producers,606095.0644,469160.1644,136934.9,
+KPC,KWT,2011-01-01,Large domestic producers,3.586316e+06,3.333186e+06,253130,
+KPC,KWT,2012-01-01,Large domestic producers,3.489265e+06,3.239875e+06,249390,
+KPC,KWT,2013-01-01,Large domestic producers,3.477008e+06,3.201778e+06,275230,
+KPC,KWT,2014-01-01,Large domestic producers,3.521345e+06,3.226565e+06,294780,
+KPC,KWT,2015-01-01,Large domestic producers,3.33474e+06,3.042e+06,292740,
+KPC,KWT,2016-01-01,Large domestic producers,3.29529e+06,3e+06,295290,
+KPC,KWT,2017-01-01,Large domestic producers,,3.15e+06,,
+MOGE,MMR,2011-01-01,Small domestic producers,0,,,
+MOGE,MMR,2012-01-01,Small domestic producers,0,,,
+MOGE,MMR,2013-01-01,Small domestic producers,3693.709342,3340.424658,353.2846849,
+MOGE,MMR,2014-01-01,Small domestic producers,69093.34247,5703.8356159999985,63389.50685,
+MOGE,MMR,2015-01-01,Small domestic producers,69810.89315,4541.1397259999985,65269.75342000001,
+MOGE,MMR,2016-01-01,Small domestic producers,,,,
+MOGE,MMR,2017-01-01,Small domestic producers,,,,
+Naftogaz,UKR,2011-01-01,Medium domestic producers,,,,
+Naftogaz,UKR,2012-01-01,Medium domestic producers,,,,
+Naftogaz,UKR,2013-01-01,Medium domestic producers,308408.1096,53333.47945,255074.6301,
+Naftogaz,UKR,2014-01-01,Medium domestic producers,334711.2329,50321.75342,284389.4795,1.61856e+09
+Naftogaz,UKR,2015-01-01,Medium domestic producers,317756.274,45973.69863,271782.5753,1.521e+09
+Naftogaz,UKR,2016-01-01,Medium domestic producers,309462.137,39890.41096,269571.726,2.14786e+09
+Naftogaz,UKR,2017-01-01,Medium domestic producers,320953.4247,35901.36986,285052.0548,2.20197e+09
+NAMCOR,NAM,2011-01-01,Pre-production NOCs,0,0,0,
+NAMCOR,NAM,2012-01-01,Pre-production NOCs,0,0,0,
+NAMCOR,NAM,2013-01-01,Pre-production NOCs,0,0,0,
+NAMCOR,NAM,2014-01-01,Pre-production NOCs,0,0,0,
+NAMCOR,NAM,2015-01-01,Pre-production NOCs,0,0,0,
+NAMCOR,NAM,2016-01-01,Pre-production NOCs,0,0,0,
+NAMCOR,NAM,2017-01-01,Pre-production NOCs,0,0,0,
+National Oil Kenya,KEN,2011-01-01,Pre-production NOCs,0,0,0,
+National Oil Kenya,KEN,2012-01-01,Pre-production NOCs,0,0,0,
+National Oil Kenya,KEN,2013-01-01,Pre-production NOCs,0,0,0,
+National Oil Kenya,KEN,2014-01-01,Pre-production NOCs,0,0,0,
+National Oil Kenya,KEN,2015-01-01,Pre-production NOCs,0,0,0,
+National Oil Kenya,KEN,2016-01-01,Pre-production NOCs,0,0,0,
+National Oil Kenya,KEN,2017-01-01,Pre-production NOCs,0,0,0,7.5e+08
+Nilepet,SSD,2011-01-01,Small domestic producers,,,,
+Nilepet,SSD,2012-01-01,Small domestic producers,,,,
+Nilepet,SSD,2013-01-01,Small domestic producers,,,,
+Nilepet,SSD,2014-01-01,Small domestic producers,,,,
+Nilepet,SSD,2015-01-01,Small domestic producers,,,,
+Nilepet,SSD,2016-01-01,Small domestic producers,,,,
+Nilepet,SSD,2017-01-01,Small domestic producers,,,,
+NIOC,IRN,2011-01-01,Large domestic producers,,,,
+NIOC,IRN,2012-01-01,Large domestic producers,,,,
+NIOC,IRN,2013-01-01,Large domestic producers,,,,
+NIOC,IRN,2014-01-01,Large domestic producers,,,,
+NIOC,IRN,2015-01-01,Large domestic producers,,,,
+NIOC,IRN,2016-01-01,Large domestic producers,,,,
+NIOC,IRN,2017-01-01,Large domestic producers,,,,
+NNPC,NGA,2011-01-01,Large domestic producers,,1.057361644e+06,,
+NNPC,NGA,2012-01-01,Large domestic producers,1.39840126e+06,1.04279726e+06,355604,
+NNPC,NGA,2013-01-01,Large domestic producers,1.244752219e+06,933608.2192,311144,
+NNPC,NGA,2014-01-01,Large domestic producers,1.326415493e+06,957868.4932,368547,
+NNPC,NGA,2015-01-01,Large domestic producers,1.20821746e+06,858453.4603,349764,
+NNPC,NGA,2016-01-01,Large domestic producers,,,,
+NNPC,NGA,2017-01-01,Large domestic producers,,,,
+NOC Libya,LBY,2011-01-01,Large domestic producers,,,,
+NOC Libya,LBY,2012-01-01,Large domestic producers,,,,
+NOC Libya,LBY,2013-01-01,Large domestic producers,,,,
+NOC Libya,LBY,2014-01-01,Large domestic producers,,,,
+NOC Libya,LBY,2015-01-01,Large domestic producers,,,,
+NOC Libya,LBY,2016-01-01,Large domestic producers,,,,
+NOC Libya,LBY,2017-01-01,Large domestic producers,,,,
+NOCAL,LBR,2011-01-01,Pre-production NOCs,0,0,0,
+NOCAL,LBR,2012-01-01,Pre-production NOCs,0,0,0,
+NOCAL,LBR,2013-01-01,Pre-production NOCs,0,0,0,
+NOCAL,LBR,2014-01-01,Pre-production NOCs,0,0,0,
+NOCAL,LBR,2015-01-01,Pre-production NOCs,0,0,0,
+NOCAL,LBR,2016-01-01,Pre-production NOCs,0,0,0,
+NOCAL,LBR,2017-01-01,Pre-production NOCs,0,0,0,
+ONGC,IND,2011-01-01,Internationalized operators,965946.0745,540612.6027,425333.4718,1.128606697e+10
+ONGC,IND,2012-01-01,Internationalized operators,946879.1441,524546.8493,422332.2948,1.143804719e+10
+ONGC,IND,2013-01-01,Internationalized operators,931763.5551,521936.1644,409827.3907,1.148593408e+10
+ONGC,IND,2014-01-01,Internationalized operators,907250.2258,520932.0548,386318.171,1.118392342e+10
+ONGC,IND,2015-01-01,Internationalized operators,896378.5523,520731.2329,375647.3195,1.088977785e+10
+ONGC,IND,2016-01-01,Internationalized operators,866153.4247,485921.0959,380232.3288,6.2198856e+09
+ONGC,IND,2017-01-01,Internationalized operators,871146.3014,478425.2055,392721.0959,6.7179744e+09
+OOC,OMN,2011-01-01,Small domestic producers,,,,
+OOC,OMN,2012-01-01,Small domestic producers,,,,
+OOC,OMN,2013-01-01,Small domestic producers,,,,
+OOC,OMN,2014-01-01,Small domestic producers,32785,32785,0,
+OOC,OMN,2015-01-01,Small domestic producers,38000,32785,,
+OOC,OMN,2016-01-01,Small domestic producers,,,,
+OOC,OMN,2017-01-01,Small domestic producers,,,,
+Orsted,DNK,2011-01-01,Internationalized operators,72328.76712,25479.45205,46849.31507,4.46e+08
+Orsted,DNK,2012-01-01,Internationalized operators,78000,27397.26027,50684.93151,4.54e+08
+Orsted,DNK,2013-01-01,Internationalized operators,87000,22465.75342,64383.56164,4.71e+08
+Orsted,DNK,2014-01-01,Internationalized operators,115000,29041.09589,85479.45205,3.91e+08
+Orsted,DNK,2015-01-01,Internationalized operators,112000,27671.23288,84383.56164,3.31e+08
+Orsted,DNK,2016-01-01,Internationalized operators,100273.9726,,,
+Orsted,DNK,2017-01-01,Internationalized operators,58630.13699,,,
+PCJ,JAM,2011-01-01,Pre-production NOCs,0,0,0,
+PCJ,JAM,2012-01-01,Pre-production NOCs,0,0,0,
+PCJ,JAM,2013-01-01,Pre-production NOCs,0,0,0,
+PCJ,JAM,2014-01-01,Pre-production NOCs,0,0,0,
+PCJ,JAM,2015-01-01,Pre-production NOCs,0,0,0,
+PCJ,JAM,2016-01-01,Pre-production NOCs,0,0,0,
+PCJ,JAM,2017-01-01,Pre-production NOCs,0,0,0,
+PDVSA,VEN,2011-01-01,Large domestic producers,3.86e+06,3.129e+06,731000,3.37e+11
+PDVSA,VEN,2012-01-01,Large domestic producers,3.802e+06,3.034e+06,768000,3.37e+11
+PDVSA,VEN,2013-01-01,Large domestic producers,3.811e+06,3.015e+06,796000,3.32e+11
+PDVSA,VEN,2014-01-01,Large domestic producers,3.73e+06,2.899e+06,831000,3.34e+11
+PDVSA,VEN,2015-01-01,Large domestic producers,3.776e+06,2.863e+06,913000,3.36e+11
+PDVSA,VEN,2016-01-01,Large domestic producers,3.819684932e+06,2.571e+06,1.248684932e+06,3.37e+11
+PDVSA,VEN,2017-01-01,Large domestic producers,,,,
+Pemex,MEX,2011-01-01,Large domestic producers,3.725e+06,2.603e+06,1.122e+06,
+Pemex,MEX,2012-01-01,Large domestic producers,3.697e+06,2.588e+06,1.109e+06,
+Pemex,MEX,2013-01-01,Large domestic producers,3.653e+06,2.564e+06,1.089e+06,
+Pemex,MEX,2014-01-01,Large domestic producers,3.538119965e+06,2.473e+06,1.065119965e+06,
+Pemex,MEX,2015-01-01,Large domestic producers,3.268894041e+06,2.308e+06,960894.0407,
+Pemex,MEX,2016-01-01,Large domestic producers,3.037e+06,2.19e+06,847000,
+Pemex,MEX,2017-01-01,Large domestic producers,2.7e+06,1.977e+06,723000,
+Pertamina,IDN,2011-01-01,Large domestic producers,457975.3425,193501.3699,264473.9726,3.200257e+09
+Pertamina,IDN,2012-01-01,Large domestic producers,462989.0411,196602.7397,266386.3014,2.89565e+09
+Pertamina,IDN,2013-01-01,Large domestic producers,465942.4658,201509.589,264432.8767,3.547242e+09
+Pertamina,IDN,2014-01-01,Large domestic producers,494819.1781,225758.9041,269060.274,3.949748e+09
+Pertamina,IDN,2015-01-01,Large domestic producers,557544.2872,246879.4521,310664.8352,3.897983e+09
+Pertamina,IDN,2016-01-01,Large domestic producers,561336.9863,274553.4247,286783.5616,2.885452e+09
+Pertamina,IDN,2017-01-01,Large domestic producers,599501.3699,304660.274,294841.0959,2.442978e+09
+Perupetro,PER,2011-01-01,Medium domestic producers,16107.09,13447.67,2659.42,
+Perupetro,PER,2012-01-01,Medium domestic producers,16929,14695.99,2233.01,
+Perupetro,PER,2013-01-01,Medium domestic producers,14879.989,13326.869,1553.12,
+Perupetro,PER,2014-01-01,Medium domestic producers,16264.53,13929,2335.53,
+Perupetro,PER,2015-01-01,Medium domestic producers,15210.56,12536,2674.56,
+Perupetro,PER,2016-01-01,Medium domestic producers,12304.687,9588.137,2716.55,
+Perupetro,PER,2017-01-01,Medium domestic producers,16075.39,13632,2443.39,
+Petroamazonas,ECU,2011-01-01,Medium domestic producers,,,,
+Petroamazonas,ECU,2012-01-01,Medium domestic producers,314580,307440,7140,
+Petroamazonas,ECU,2013-01-01,Medium domestic producers,335057,326596,8461,1.4859e+09
+Petroamazonas,ECU,2014-01-01,Medium domestic producers,443000,,,
+Petroamazonas,ECU,2015-01-01,Medium domestic producers,431000,,,
+Petroamazonas,ECU,2016-01-01,Medium domestic producers,441000,,,
+Petroamazonas,ECU,2017-01-01,Medium domestic producers,425000,,,
+Petrobangla,BGD,2011-01-01,Medium domestic producers,,,,
+Petrobangla,BGD,2012-01-01,Medium domestic producers,,,,
+Petrobangla,BGD,2013-01-01,Medium domestic producers,402170.5,7260.5,394910,2.6044e+09
+Petrobangla,BGD,2014-01-01,Medium domestic producers,425442,7755.1,425442,2.4735e+09
+Petrobangla,BGD,2015-01-01,Medium domestic producers,394910,12490,394910,2.312e+09
+Petrobangla,BGD,2016-01-01,Medium domestic producers,464831,11768,464831,2.1896e+09
+Petrobangla,BGD,2017-01-01,Medium domestic producers,,,,
+Petrobras,BRA,2011-01-01,Internationalized operators,2.622e+06,2.17e+06,452000,1.64e+10
+Petrobras,BRA,2012-01-01,Internationalized operators,2.598e+06,2.126e+06,472000,1.64e+10
+Petrobras,BRA,2013-01-01,Internationalized operators,2.54e+06,2.06e+06,480000,1.66e+10
+Petrobras,BRA,2014-01-01,Internationalized operators,2.67e+06,2.15e+06,520000,1.6612e+10
+Petrobras,BRA,2015-01-01,Internationalized operators,2.786e+06,2.227e+06,559000,1.3279e+10
+Petrobras,BRA,2016-01-01,Internationalized operators,2.79e+06,2.22e+06,570000,9.672e+09
+Petrobras,BRA,2017-01-01,Internationalized operators,2.767e+06,2.22e+06,547000,9.752e+09
+PetroChina,CHN,2011-01-01,Internationalized operators,3.52195e+06,2.4277e+06,1.09425e+06,2.2237e+10
+PetroChina,CHN,2012-01-01,Internationalized operators,3.669433e+06,2.5042e+06,1.165233e+06,2.22815e+10
+PetroChina,CHN,2013-01-01,Internationalized operators,3.835183e+06,2.5558e+06,1.279383e+06,2.23741e+10
+PetroChina,CHN,2014-01-01,Internationalized operators,3.9733e+06,2.5903e+06,1.383e+06,2.2443e+10
+PetroChina,CHN,2015-01-01,Internationalized operators,4.092483e+06,2.6628e+06,1.429683e+06,2.14419e+10
+PetroChina,CHN,2016-01-01,Internationalized operators,4.006633333e+06,2.5155e+06,1.491133333e+06,2.05564e+10
+PetroChina,CHN,2017-01-01,Internationalized operators,3.9933e+06,2.4301e+06,1.5632e+06,2.02959e+10
+Petroci,CIV,2011-01-01,Small domestic producers,,,,
+Petroci,CIV,2012-01-01,Small domestic producers,,,,
+Petroci,CIV,2013-01-01,Small domestic producers,,,,
+Petroci,CIV,2014-01-01,Small domestic producers,,,,
+Petroci,CIV,2015-01-01,Small domestic producers,,,,
+Petroci,CIV,2016-01-01,Small domestic producers,,,,
+Petroci,CIV,2017-01-01,Small domestic producers,,,,
+Petroecuador,ECU,2011-01-01,Medium domestic producers,,,,
+Petroecuador,ECU,2012-01-01,Medium domestic producers,307671.2329,307671.2329,0,
+Petroecuador,ECU,2013-01-01,Medium domestic producers,340087.6712,340087.6712,0,
+Petroecuador,ECU,2014-01-01,Medium domestic producers,379873.9726,379873.9726,0,
+Petroecuador,ECU,2015-01-01,Medium domestic producers,360000,360000,0,
+Petroecuador,ECU,2016-01-01,Medium domestic producers,204301.3699,204301.3699,0,
+Petroecuador,ECU,2017-01-01,Medium domestic producers,212928.7671,212928.7671,0,
+PetroleumBrunei,BRN,2011-01-01,Medium domestic producers,,,,
+PetroleumBrunei,BRN,2012-01-01,Medium domestic producers,,,,
+PetroleumBrunei,BRN,2013-01-01,Medium domestic producers,,,,
+PetroleumBrunei,BRN,2014-01-01,Medium domestic producers,,,,
+PetroleumBrunei,BRN,2015-01-01,Medium domestic producers,,,,
+PetroleumBrunei,BRN,2016-01-01,Medium domestic producers,,,,
+PetroleumBrunei,BRN,2017-01-01,Medium domestic producers,,,,
+Petronas,MYS,2011-01-01,Internationalized operators,2.137e+06,1.614e+06,523000,9.825e+09
+Petronas,MYS,2012-01-01,Internationalized operators,2.015e+06,1.587e+06,428000,9.601e+09
+Petronas,MYS,2013-01-01,Internationalized operators,2.131e+06,768000,1.363e+06,1.1166007905e+10
+Petronas,MYS,2014-01-01,Internationalized operators,2.226e+06,759000,1.467e+06,1.13e+10
+Petronas,MYS,2015-01-01,Internationalized operators,2.29e+06,937000,1.353e+06,
+Petronas,MYS,2016-01-01,Internationalized operators,2.363e+06,939000,1.424e+06,
+Petronas,MYS,2017-01-01,Internationalized operators,2.32e+06,875000,1.445e+06,
+PetroSA,ZAF,2011-01-01,Small domestic producers,28082.18767,7123.287670999999,20958.9,1.107880597e+08
+PetroSA,ZAF,2012-01-01,Small domestic producers,21539.72384,3561.643836,17978.08,9.996343284e+07
+PetroSA,ZAF,2013-01-01,Small domestic producers,25298.34247,6575.342466,18723,6.506865672e+07
+PetroSA,ZAF,2014-01-01,Small domestic producers,19794.53425,4657.534247,15137,9.959029851e+07
+PetroSA,ZAF,2015-01-01,Small domestic producers,23183.47945,5205.479452000001,17978,3.630895522e+07
+PetroSA,ZAF,2016-01-01,Small domestic producers,25441.34247,4575.342466,20866,3.163179104e+07
+PetroSA,ZAF,2017-01-01,Small domestic producers,15714.780819999998,4191.780822,11523,3.485335821e+07
+Petrotrin,TTO,2011-01-01,Small domestic producers,,,,
+Petrotrin,TTO,2012-01-01,Small domestic producers,,,,
+Petrotrin,TTO,2013-01-01,Small domestic producers,70010,44805,25205,
+Petrotrin,TTO,2014-01-01,Small domestic producers,71236,45663,25573,
+Petrotrin,TTO,2015-01-01,Small domestic producers,73290,45960,27330,
+Petrotrin,TTO,2016-01-01,Small domestic producers,67230,43338,23892,
+Petrotrin,TTO,2017-01-01,Small domestic producers,,,,
+PetroVietnam,VNM,2011-01-01,Medium domestic producers,,,,
+PetroVietnam,VNM,2012-01-01,Medium domestic producers,,,,
+PetroVietnam,VNM,2013-01-01,Medium domestic producers,,,,
+PetroVietnam,VNM,2014-01-01,Medium domestic producers,,,,
+PetroVietnam,VNM,2015-01-01,Medium domestic producers,,,,
+PetroVietnam,VNM,2016-01-01,Medium domestic producers,,,,
+PetroVietnam,VNM,2017-01-01,Medium domestic producers,,,,
+PNOC,PHL,2011-01-01,Small domestic producers,,,,
+PNOC,PHL,2012-01-01,Small domestic producers,,,,
+PNOC,PHL,2013-01-01,Small domestic producers,,,,
+PNOC,PHL,2014-01-01,Small domestic producers,,,,
+PNOC,PHL,2015-01-01,Small domestic producers,,,,
+PNOC,PHL,2016-01-01,Small domestic producers,,,,
+PNOC,PHL,2017-01-01,Small domestic producers,,,,
+PTT,THA,2011-01-01,Internationalized operators,265047,,,
+PTT,THA,2012-01-01,Internationalized operators,275923,,,
+PTT,THA,2013-01-01,Internationalized operators,292629,,,
+PTT,THA,2014-01-01,Internationalized operators,312569,,,
+PTT,THA,2015-01-01,Internationalized operators,322167,,,
+PTT,THA,2016-01-01,Internationalized operators,319521,,,
+PTT,THA,2017-01-01,Internationalized operators,299206,,,
+Qatar Petroleum,QAT,2011-01-01,Large domestic producers,,,,
+Qatar Petroleum,QAT,2012-01-01,Large domestic producers,,,,
+Qatar Petroleum,QAT,2013-01-01,Large domestic producers,,,,
+Qatar Petroleum,QAT,2014-01-01,Large domestic producers,,,,
+Qatar Petroleum,QAT,2015-01-01,Large domestic producers,,,,
+Qatar Petroleum,QAT,2016-01-01,Large domestic producers,,,,
+Qatar Petroleum,QAT,2017-01-01,Large domestic producers,,,,
+Rosneft,RUS,2011-01-01,Internationalized operators,,,,
+Rosneft,RUS,2012-01-01,Internationalized operators,,,,
+Rosneft,RUS,2013-01-01,Internationalized operators,4.9e+06,4.214e+06,686000,3.3e+10
+Rosneft,RUS,2014-01-01,Internationalized operators,5.106e+06,4.13586e+06,970140,3.3977e+10
+Rosneft,RUS,2015-01-01,Internationalized operators,5.159e+06,4.1272e+06,1.0318e+06,3.4365e+10
+Rosneft,RUS,2016-01-01,Internationalized operators,5.369e+06,4.252e+06,1.117e+06,3.7772e+10
+Rosneft,RUS,2017-01-01,Internationalized operators,5.718e+06,4.577e+06,1.141e+06,3.9907e+10
+Saudi Aramco,SAU,2011-01-01,Large domestic producers,1.0783e+07,9.1e+06,1.683e+06,3.08e+11
+Saudi Aramco,SAU,2012-01-01,Large domestic producers,1.1319e+07,9.5e+06,1.819e+06,3.09e+11
+Saudi Aramco,SAU,2013-01-01,Large domestic producers,1.158751e+07,9.7e+06,1.88751e+06,3.09e+11
+Saudi Aramco,SAU,2014-01-01,Large domestic producers,1.161709e+07,9.7e+06,1.91709e+06,3.11e+11
+Saudi Aramco,SAU,2015-01-01,Large domestic producers,1.214378e+07,1.02e+07,1.94378e+06,3.12e+11
+Saudi Aramco,SAU,2016-01-01,Large domestic producers,1.274561e+07,1.07e+07,2.04561e+06,3.12e+11
+Saudi Aramco,SAU,2017-01-01,Large domestic producers,1.31e+07,1.02e+07,2.9e+06,3.33e+11
+SHT,TCD,2011-01-01,Small domestic producers,0,0,0,
+SHT,TCD,2012-01-01,Small domestic producers,10071.23288,10071.23288,0,
+SHT,TCD,2013-01-01,Small domestic producers,10608.21918,10608.21918,0,
+SHT,TCD,2014-01-01,Small domestic producers,23835.61644,23835.61644,0,
+SHT,TCD,2015-01-01,Small domestic producers,38331.07671,38331.07671,0,
+SHT,TCD,2016-01-01,Small domestic producers,31082.019180000007,31082.019180000007,0,
+SHT,TCD,2017-01-01,Small domestic producers,,,,
+Sinopec Corp,CHN,2011-01-01,Internationalized operators,1.117e+06,881000,236000,3.966166667e+09
+Sinopec Corp,CHN,2012-01-01,Internationalized operators,1.171833e+06,899000,272833,3.964666667e+09
+Sinopec Corp,CHN,2013-01-01,Internationalized operators,1.222333e+06,921000,301333,4.216666667e+09
+Sinopec Corp,CHN,2014-01-01,Internationalized operators,1.316e+06,989000,327000,4.1715e+09
+Sinopec Corp,CHN,2015-01-01,Internationalized operators,1.285167e+06,958000,327167,3.504666667e+09
+Sinopec Corp,CHN,2016-01-01,Internationalized operators,1.181616438e+06,831534.2466,350082.1918,2.91582e+09
+Sinopec Corp,CHN,2017-01-01,Internationalized operators,1.229561644e+06,804547.9452,425013.6986,2.92843e+09
+Sinopec Group,CHN,2011-01-01,Internationalized operators,,,,
+Sinopec Group,CHN,2012-01-01,Internationalized operators,,,,
+Sinopec Group,CHN,2013-01-01,Internationalized operators,,,,
+Sinopec Group,CHN,2014-01-01,Internationalized operators,,,,
+Sinopec Group,CHN,2015-01-01,Internationalized operators,,,,
+Sinopec Group,CHN,2016-01-01,Internationalized operators,,,,
+Sinopec Group,CHN,2017-01-01,Internationalized operators,,,,
+SNH,CMR,2011-01-01,Small domestic producers,,,,
+SNH,CMR,2012-01-01,Small domestic producers,,,,
+SNH,CMR,2013-01-01,Small domestic producers,,,,
+SNH,CMR,2014-01-01,Small domestic producers,,,,
+SNH,CMR,2015-01-01,Small domestic producers,,,,
+SNH,CMR,2016-01-01,Small domestic producers,,,,
+SNH,CMR,2017-01-01,Small domestic producers,,,,
+SNPC,COG,2011-01-01,Small domestic producers,148069.6301,148069.6301,,
+SNPC,COG,2012-01-01,Small domestic producers,117134.2466,117134.2466,,
+SNPC,COG,2013-01-01,Small domestic producers,122049.3151,122049.3151,,
+SNPC,COG,2014-01-01,Small domestic producers,115646.5753,115646.5753,,
+SNPC,COG,2015-01-01,Small domestic producers,74547.94521,74547.94521,,
+SNPC,COG,2016-01-01,Small domestic producers,,,,
+SNPC,COG,2017-01-01,Small domestic producers,,,,
+SOCAR,AZE,2011-01-01,Medium domestic producers,288266,168708,119558,
+SOCAR,AZE,2012-01-01,Medium domestic producers,283341,166477,116864,
+SOCAR,AZE,2013-01-01,Medium domestic producers,287482,166981,120501,
+SOCAR,AZE,2014-01-01,Medium domestic producers,288989,167092,121897,
+SOCAR,AZE,2015-01-01,Medium domestic producers,279848,163881,115967,
+SOCAR,AZE,2016-01-01,Medium domestic producers,256827.5726,151066.2795,105761.2932,
+SOCAR,AZE,2017-01-01,Medium domestic producers,251914.7479,149152.4466,102762.3014,
+Sonahydroc,COD,2011-01-01,Pre-production NOCs,0,0,0,
+Sonahydroc,COD,2012-01-01,Pre-production NOCs,0,0,0,
+Sonahydroc,COD,2013-01-01,Pre-production NOCs,0,0,0,
+Sonahydroc,COD,2014-01-01,Pre-production NOCs,0,0,0,
+Sonahydroc,COD,2015-01-01,Pre-production NOCs,0,0,0,
+Sonahydroc,COD,2016-01-01,Pre-production NOCs,0,0,0,
+Sonahydroc,COD,2017-01-01,Pre-production NOCs,0,0,0,
+Sonangol,AGO,2011-01-01,Large domestic producers,,,,
+Sonangol,AGO,2012-01-01,Large domestic producers,862832,857706,5126,
+Sonangol,AGO,2013-01-01,Large domestic producers,803032,794941,8091,
+Sonangol,AGO,2014-01-01,Large domestic producers,762206.45,753915,8291.45,
+Sonangol,AGO,2015-01-01,Large domestic producers,654491.0722,649025,5466.072247,
+Sonangol,AGO,2016-01-01,Large domestic producers,630400.2354,623601,6799.235425,
+Sonangol,AGO,2017-01-01,Large domestic producers,,,,
+Sonatrach,DZA,2011-01-01,Large domestic producers,,,,
+Sonatrach,DZA,2012-01-01,Large domestic producers,3.50061814e+06,1.213561483e+06,2.2870566580000003e+06,
+Sonatrach,DZA,2013-01-01,Large domestic producers,3.366526143e+06,1.169336664e+06,2.1971894790000003e+06,
+Sonatrach,DZA,2014-01-01,Large domestic producers,3.516332384e+06,1.223646575e+06,2.292685808e+06,
+Sonatrach,DZA,2015-01-01,Large domestic producers,3.438750569e+06,1.183463336e+06,2.255287233e+06,
+Sonatrach,DZA,2016-01-01,Large domestic producers,3.465582343000001e+06,1.211559549e+06,2.254022795e+06,
+Sonatrach,DZA,2017-01-01,Large domestic producers,,,,
+Staatsolie,SUR,2011-01-01,Small domestic producers,16411,16411,,7.68e+07
+Staatsolie,SUR,2012-01-01,Small domestic producers,16274,16274,,7.67e+07
+Staatsolie,SUR,2013-01-01,Small domestic producers,16384,16384,,9.25e+07
+Staatsolie,SUR,2014-01-01,Small domestic producers,16794,16794,,9.998e+07
+Staatsolie,SUR,2015-01-01,Small domestic producers,16956,16956,,8.398e+07
+Staatsolie,SUR,2016-01-01,Small domestic producers,16383.56164,16383.56164,,8.42e+07
+Staatsolie,SUR,2017-01-01,Small domestic producers,,,,
+Sudapet,SDN,2011-01-01,Small domestic producers,,,,
+Sudapet,SDN,2012-01-01,Small domestic producers,,,,
+Sudapet,SDN,2013-01-01,Small domestic producers,,,,
+Sudapet,SDN,2014-01-01,Small domestic producers,,,,
+Sudapet,SDN,2015-01-01,Small domestic producers,,,,
+Sudapet,SDN,2016-01-01,Small domestic producers,,,,
+Sudapet,SDN,2017-01-01,Small domestic producers,,,,
+TAQA,ARE,2011-01-01,Internationalized operators,139100,,,5.83e+08
+TAQA,ARE,2012-01-01,Internationalized operators,135400,,,6e+08
+TAQA,ARE,2013-01-01,Internationalized operators,142300,,,6.124e+08
+TAQA,ARE,2014-01-01,Internationalized operators,158900,,,5.223e+08
+TAQA,ARE,2015-01-01,Internationalized operators,145300,68300,77000,4.849e+08
+TAQA,ARE,2016-01-01,Internationalized operators,137300,,,4.274e+08
+TAQA,ARE,2017-01-01,Internationalized operators,126200,,,4.137e+08
+Timor GAP,TLS,2011-01-01,Pre-production NOCs,0,0,0,
+Timor GAP,TLS,2012-01-01,Pre-production NOCs,0,0,0,
+Timor GAP,TLS,2013-01-01,Pre-production NOCs,0,0,0,
+Timor GAP,TLS,2014-01-01,Pre-production NOCs,0,0,0,
+Timor GAP,TLS,2015-01-01,Pre-production NOCs,0,0,0,
+Timor GAP,TLS,2016-01-01,Pre-production NOCs,0,0,0,
+Timor GAP,TLS,2017-01-01,Pre-production NOCs,0,0,0,
+TPDC,TZA,2011-01-01,Small domestic producers,,0,,
+TPDC,TZA,2012-01-01,Small domestic producers,,0,,
+TPDC,TZA,2013-01-01,Small domestic producers,,0,,
+TPDC,TZA,2014-01-01,Small domestic producers,,0,,
+TPDC,TZA,2015-01-01,Small domestic producers,,0,,
+TPDC,TZA,2016-01-01,Small domestic producers,,0,,
+TPDC,TZA,2017-01-01,Small domestic producers,,0,,
+Turkmengaz,TKM,2011-01-01,Large domestic producers,,,,
+Turkmengaz,TKM,2012-01-01,Large domestic producers,,,,
+Turkmengaz,TKM,2013-01-01,Large domestic producers,,,,
+Turkmengaz,TKM,2014-01-01,Large domestic producers,,,,
+Turkmengaz,TKM,2015-01-01,Large domestic producers,,,,
+Turkmengaz,TKM,2016-01-01,Large domestic producers,,,,
+Turkmengaz,TKM,2017-01-01,Large domestic producers,,,,
+YOGC,YEM,2011-01-01,Small domestic producers,,,,
+YOGC,YEM,2012-01-01,Small domestic producers,,,,
+YOGC,YEM,2013-01-01,Small domestic producers,,,,
+YOGC,YEM,2014-01-01,Small domestic producers,,,,
+YOGC,YEM,2015-01-01,Small domestic producers,,,,
+YOGC,YEM,2016-01-01,Small domestic producers,,,,
+YOGC,YEM,2017-01-01,Small domestic producers,,,,
+YPF,ARG,2011-01-01,Large domestic producers,488100,273000,215100,5.9670587e+08
+YPF,ARG,2012-01-01,Large domestic producers,485000,275000,210000,1.00534e+09
+YPF,ARG,2013-01-01,Large domestic producers,493400,280500,212900,1.11402e+09
+YPF,ARG,2014-01-01,Large domestic producers,560100,293300,266800,1.24704e+09
+YPF,ARG,2015-01-01,Large domestic producers,576700,298900,277800,1.26268e+09
+YPF,ARG,2016-01-01,Large domestic producers,,,,
+YPF,ARG,2017-01-01,Large domestic producers,,,,
+YPFB,BOL,2011-01-01,Medium domestic producers,342062,44600,297462,
+YPFB,BOL,2012-01-01,Medium domestic producers,388816,51490,337326,
+YPFB,BOL,2013-01-01,Medium domestic producers,443802,59220,384582,
+YPFB,BOL,2014-01-01,Medium domestic producers,467954,63110,404844,
+YPFB,BOL,2015-01-01,Medium domestic producers,470162,61820,408342,
+YPFB,BOL,2016-01-01,Medium domestic producers,,,,
+YPFB,BOL,2017-01-01,Medium domestic producers,403465.6,54440,349025.6,
